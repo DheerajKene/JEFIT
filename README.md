@@ -5,7 +5,7 @@ A fitness movement that is worth breaking a sweat for_
 
 Gym workout tracking app. Progress tracked, workouts personalized - Your all-in-one fitness solution in which you can customize your workout plan with over 1400 free exercises in Jefit Workout Plan Builder. And easily share with friends. 
 
-> In this project we have tried to clone frontend of jefit. Project design is responsive for all screen sizes. This project is an effort to implement learning at masai and improve our understanding of the web world.  Through this website we are trying to influence life style of people by providing assistance in improving there physical and mental health.
+> In this project, we have tried to clone the front end of jetfit. The project design is responsive for all screen sizes. This project is an effort to implement learning at Masai and improve our understanding of the web world. Through this website, we are trying to influence the lifestyle of people by assisting in improving their physical and mental health.
 <h3> Deployment link </h3>
 
 <a href="[www.linkedin.com/in/tapish23](https://preeminent-lollipop-9db455.netlify.app)"> JEFIT </a>
@@ -25,7 +25,7 @@ Gym workout tracking app. Progress tracked, workouts personalized - Your all-in-
  <h3>Features</h3>
  
  1. Engaging, interactive and resposive design.
- 2. Get best sessin for overall health improvement.
+ 2. Get the best session for overall health improvement.
 
  <hr>
  
