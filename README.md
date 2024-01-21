@@ -3,7 +3,7 @@ A fitness movement that is worth breaking a sweat for_
 
 <h3> About </h3>
 
-Gym workout tracking app. Progress tracked, workouts personalized - Your all-in-one fitness solution inwhic you can customize your workout plan with over 1400 free exercises in Jefit Workout Plan Builder. And easily share with friends. 
+Gym workout tracking app. Progress tracked, workouts personalized - Your all-in-one fitness solution in which you can customize your workout plan with over 1400 free exercises in Jefit Workout Plan Builder. And easily share with friends. 
 
 > In this project we have tried to clone frontend of jefit. Project design is responsive for all screen sizes. This project is an effort to implement learning at masai and improve our understanding of the web world.  Through this website we are trying to influence life style of people by providing assistance in improving there physical and mental health.
 <h3> Deployment link </h3>
